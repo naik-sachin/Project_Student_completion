@@ -8,7 +8,8 @@ Gender (M/F)
 Major (47 possible majors)          
 Housing status(resident/commuter)        
 SAT             
-ACT          
+ACT  
+SPSERV(list of special serviced programs run by the university)
 HSGPA (scale of 4)          
 AddrLine1       
 City            
