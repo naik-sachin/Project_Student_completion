@@ -34,7 +34,10 @@ The aid of these visuals were used to come up with a student profile that is a s
 
 # Modelling 
 The Modelling is in the notebook labelled EDA and modelling.
+
 ![alt text](https://github.com/snaik21352/Student_completion/blob/main/Confusion_matrix.png)
+
+
 Students who completed were classified based on a Decision tree classifier and a  random forest classifier with repeated  cross validation , recursive feature elimination and resampled data to obtain nearly 90% prediction accuracy. 
 
 # Future Work 
